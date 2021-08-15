@@ -10,7 +10,7 @@
 
 <div align="center">
 <a href="https://github.com/vish198910">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vish198910&show_icons=true&color=39FF14&theme=dark&line_height=27&title_color=39FF14&bg_color=000000&hide_border=1" alt="Vishnu's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vish198910&show_icons=true&color=39FF14&theme=chartreuse-dark&line_height=27&title_color=39FF14&bg_color=000000&hide_border=1" alt="Vishnu's github stats"/>
 </a>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vish198910&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
