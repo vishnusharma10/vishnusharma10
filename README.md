@@ -4,7 +4,7 @@
 
 🎓 I’m a problem solver who is solving the world's major problems with the power of code. I am pursuing my Bachelors in Computer Science & Engineering. </br>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/vish198910/vish198910/blob/master/devcard.svg" width="400" alt="Vishnu Sharma's Dev Card"/></a>
+<center> <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/vish198910/vish198910/blob/master/devcard.svg" width="400" alt="Vishnu Sharma's Dev Card"/></a><center>
 
 ### My Github stats 🐱:
 ![Vishnu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=vish198910&theme=react-dark&hide_border=true&area=true&line=39FF14&color=39FF14)
