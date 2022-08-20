@@ -15,8 +15,5 @@ I'm currently working as a Software Developer. <br>I'm interested in  Cross-Plat
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vish198910&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=vish198910&icon=0&color=0)](https://visitcount.itsvg.in)
