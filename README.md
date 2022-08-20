@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a Software Developer. <br>I'm interested in  Cross-Platform Applications, Web3, DevOps, and much more.<br>I love to build products that solve real problems.
+I'm currently working as a Software Developer. <br>I'm interested in  Full Stack Web Development, Cross-Platform Application Development using Flutter, Web3, DevOps, and much more.<br>I love to build products that solve real problems.
 
 
 ## 🌐 Socials:
