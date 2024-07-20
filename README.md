@@ -4,4 +4,4 @@ I'm <a href="https://vishnusharma.space">Vishnu</a>, a passionate Software Devel
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_wish_n_u) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnusharma10/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/i_wish_n_u) 
 
-<img src="[https://drive.google.com/file/d/1gVRJMioEbiitr3hs-B2865x3MAzRsewv/view?usp=sharing](https://github.com/vish198910/vish198910/blob/master/youtube%20banner.png)"> BuiltByTheWeekends </img>
+<img src="https://github.com/vish198910/vish198910/blob/master/youtube%20banner.png"> BuiltByTheWeekends </img>
