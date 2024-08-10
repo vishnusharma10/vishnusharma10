@@ -12,5 +12,5 @@ I'm <a href="https://vishnusharma.space">Vishnu</a>, a passionate Software Devel
      <img src="https://skillicons.dev/icons?i=elixir,golang,java,dart,flutter,js,mongodb,express,react,nodejs,typescript,next,mysql" />
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,git,github,,firebase,docker,kubernetes,solidity" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,git,github,firebase,docker,kubernetes,solidity" />
 </p>
