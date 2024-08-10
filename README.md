@@ -9,12 +9,12 @@ I'm <a href="https://vishnusharma.space">Vishnu</a>, a passionate Software Devel
 ### <p align="center">Technical Skills</p>
 
 <p align="center">
-  <a href="https://rupali-codes.netlify.app">
+  
     <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,typescript,next,mysql" />
-  </a>
+ 
 </p>
 <p align="center">
-  <a href="https://rupali-codes.netlify.app">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,git,github,wordpress" />
-  </a>
+  
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,git,github" />
+ 
 </p>
