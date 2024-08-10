@@ -9,8 +9,8 @@ I'm <a href="https://vishnusharma.space">Vishnu</a>, a passionate Software Devel
 ### <p align="center">Technical Skills</p>
 
 <p align="center">
-     <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,typescript,next,mysql" />
+     <img src="https://skillicons.dev/icons?i=elixir,golang,java,dart,flutter,js,mongodb,express,react,nodejs,typescript,next,mysql,firebase,docker,kubernetes" />
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,git,github,solidity" />
 </p>
