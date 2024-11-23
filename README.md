@@ -7,7 +7,10 @@ I'm <a href="https://vishnusharma.space">Vishnu</a>, a passionate Software Devel
 <img src="https://github.com/vish198910/vish198910/blob/master/Untitled%20(2).png" alt="BuiltByTheWeekends">
 
 ### <p align="center">Technical Skills</p>
-
+<p align="center">
+  <strong>Cybersecurity</strong><br>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3244568" style='border:none;'></iframe>
+</p>
 <p align="center">
   <strong>Frontend Development</strong><br>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,typescript,next" />
