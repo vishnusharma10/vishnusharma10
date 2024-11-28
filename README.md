@@ -8,10 +8,6 @@
 
 ### <p align="center">Technical Skills</p>
 <p align="center">
-  <strong>Cybersecurity</strong><br>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/vishnusharma10.png" alt="Your Image Badge" />
-</p>
-<p align="center">
   <strong>Frontend Development</strong><br>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,typescript,next" />
 </p>
